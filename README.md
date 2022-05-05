@@ -29,4 +29,9 @@ The purpose of this project is to build a table with data about UFO sightings th
 
 One major drawback of this design is that the user needs to consciously input everything in the filter buttons in lower case. For example, if they type "US" instead of "us", or "CA" instead of "ca" or "El Cajon" instead of "el cajon", the filtered data will not show up.
 
+##### Recommendations
+
+1. The filters should be updated to accomodate user inputs in both upper and lower cases.
+2. The date filter can be split into date, month and year boxes for more clarity.
+
 
