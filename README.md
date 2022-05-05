@@ -39,4 +39,9 @@ One major drawback of this design is that the user needs to consciously input ev
 1. The filters should be updated to accomodate user inputs in both upper and lower cases.
 2. The date filter can be split into date, month and year boxes for more clarity.
 
+##### Challenge files
+[App](https://github.com/Sukanya807/UFOs/blob/main/static/js/app.js)
+[index](https://github.com/Sukanya807/UFOs/blob/main/index.html)
+
+
 
