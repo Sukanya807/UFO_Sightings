@@ -5,6 +5,11 @@ UFO Sightings with JavaScript
 
 The purpose of this project is to build a table with data about UFO sightings that is stored in a JavaScript array. The table data has been placed into an HTML file for easy viewing.Also, the webpage has been customized using Bootstrap,CSS and several fully functional filters have been added that will allow users to interact with the visualizations.
 
+### Tools Used
+- JavaScript
+- HTML
+- Bootstrap/CSS
+
 ![](static/images/webpage_look.png)
 
 ### Results
